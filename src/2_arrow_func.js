@@ -47,6 +47,6 @@
 // person.log(); // person
 // person.arrowLog(); // object Window
 // person.delayLog(); // undefined
-// person.delayArrowLog(); // undefined
+// person.delayArrowLog(); // Igor 25
 // person.delayMethodArrowLog(); // undefined
 
